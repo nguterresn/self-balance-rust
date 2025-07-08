@@ -4,8 +4,8 @@ Simple to use and quick to print two wheel robot.
 
 ![IMG_9873 – média](https://github.com/user-attachments/assets/073c2572-50e8-4f28-95f0-d40f6ffb6d6e)
 
-* [Code](https://github.com/nguterresn/self-balance-rust/firmware)
-* [Enclosure](https://github.com/nguterresn/self-balance-rust/cad)
+* [Code](https://github.com/nguterresn/self-balance-rust/tree/master/firmware)
+* [Enclosure](https://github.com/nguterresn/self-balance-rust/tree/master/cad)
 
 Requires:
 
