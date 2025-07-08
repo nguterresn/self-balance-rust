@@ -11,6 +11,9 @@ Requires:
 * MPU6050
 * x2 n20 motor
 * A battery (used a 7.4V one)
+* x4 M3 screws (bottom)
+* x4 M3 screws (lid)
+* A small breadboard
 
 The code is written in Rust and runs in a single loop. Due the single loop operation, the timings may not be the best, but the goal was achieved. I tried to wrap all the possible errors that could happen inside the main loop in such a way that it would not cause any strange _panic_ in case of error.
 
