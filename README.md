@@ -1,6 +1,8 @@
-# Self balacing robot in Rust
+# Self balacing robot in Rust 🦀
 
 Simple to use and quick to print two wheel robot.
+
+![IMG_9873 – média](https://github.com/user-attachments/assets/073c2572-50e8-4f28-95f0-d40f6ffb6d6e)
 
 Requires:
 
